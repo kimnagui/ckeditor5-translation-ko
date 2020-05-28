@@ -1,6 +1,6 @@
 {
   "name": "@kimnagui/ckeditor5-translation-ko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Korean translation file for ckeditor5",
   "main": "index.js",
   "repository": {

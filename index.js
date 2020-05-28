@@ -113,7 +113,7 @@
     "This media URL is not supported.": "지원되지 않는 URL 입니다.",
     Tiny: "작은",
     "Tip: Paste the URL into the content to embed faster.":
-      "팁: URL을 복사+붙여넣기 하면 빠릅니다.",
+      "팁: 본문에 바로 URL을 붙여넣기하면 더 빠릅니다.",
     Turquoise: "청록색",
     "Upload in progress": "업로드 중",
     White: "흰색",
