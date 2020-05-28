@@ -40,6 +40,17 @@
     Undo: "실행 취소",
     Unlink: "링크 삭제",
     "Upload failed": "업로드 실패",
+
+    Underline: "밑줄",
+    Strikethrough: "취소선",
+    "Remove color": "색상 지우기",
+    "Text alignment": "텍스트 정렬",
+    "Text alignment toolbar": "텍스트 정렬 툴바",
+    Justify: "양쪽 맞춤",
+    "Align center": "가운데 맞춤",
+    "Align left": "왼쪽 맞춤",
+    "Align right": "오른쪽 맞춤",
+
     "Decrease indent": "내어쓰기",
     "Increase indent": "들여쓰기",
     "Media toolbar": "미디어 툴바",
