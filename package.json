@@ -1,0 +1,20 @@
+{
+  "name": "@kimnagui/ckeditor5-translation-ko",
+  "version": "1.0.0",
+  "description": "Korean translation file for ckeditor5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimnagui/ckeditor5-media-align"
+  },
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-translations",
+    "translations",
+    "korean",
+    "ko"
+  ],
+  "license": "GPL-2.0-or-later"
+}
